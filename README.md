@@ -2,14 +2,14 @@
 ##About
 iPod themed music player for Rainmeter
 ##Variables
-To customize **rainPod** edit the `[Variables]` section in **rainPod.ini**.
+To customize **rainPod** right-click on the skin, select _Edit skin_ and edit the `[Variables]` section in **rainPod.ini**.
 ###Color
 Available color are **grey**, **pink** **green** or **blue**. Just assign your prefered color to the `MyColor` variable. Have a look at the following example:
 ```ini
 MyColor=green
 ```
 ###Music player
-The skin was developed and tested using iTunes. For other available and supported music players have a look at the offical Rainmeter [docs](http://docs.rainmeter.net/manual/plugins/nowplaying#playerlist). To change this value just assign your prefered music player to the `MyPlayer` variable like this:
+The skin was developed and tested using iTunes. For other available and supported music players have a look at the offical Rainmeter **[docs](http://docs.rainmeter.net/manual/plugins/nowplaying#playerlist)**. To change this value just assign your prefered music player to the `MyPlayer` variable like this:
 ```ini
 MyPlayer=iTunes
 ```
