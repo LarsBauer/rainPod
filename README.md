@@ -2,7 +2,7 @@
 ##About
 A couple of weeks ago I found my old iPod Mini in my cupboard. After some hours of charging it even worked. I was so happy that I decided to revive this legendary music player and bring it to Rainmeter.
 
-//TODO add screenshots
+<img src="http://bauerdrive.de/images/rainpod_grey.png" /><img src="http://bauerdrive.de/images/rainpod_blue.png" /><img src="http://bauerdrive.de/images/rainpod_green.png" /><img src="http://bauerdrive.de/images/rainpod_pink.png" />
 
 This is my first Rainmeter skin. So I am quite a beginner. I know there is still a lot of room for improvements. I have already added some ideas of mine as enhancement issues. If you have got any suggestions or criticism feel free to let me know.
 ##Customizing
