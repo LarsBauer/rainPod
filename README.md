@@ -1,6 +1,10 @@
 # rainPod
 ##About
-iPod themed music player for Rainmeter
+A couple of weeks ago I found my old iPod Mini in my cupboard. After some hours of charging it even worked. I was so happy that I decided to revive this legendary music player and bring it to Rainmeter.
+
+//TODO add screenshots
+
+This is my first Rainmeter skin. So I am quite a beginner. I know there is still a lot of room for improvements. I have already added some ideas of mine as enhancement issues. If you have got any suggestions or criticism feel free to let me know.
 ##Customizing
 To customize **rainPod** right-click on the skin, select _Edit skin_ and edit the `[Variables]` section in **rainPod.ini**.
 ###Color
@@ -30,5 +34,5 @@ Special thanks to the following artists and developers for making this possible.
 ##Scripts
 * [Marquee](http://rainmeter.net/forum/viewtopic.php?p=92179#p92179) by smurfier & Skymil
 
-##License
+#License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">rainPod</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/LarsBauer/rainPod" property="cc:attributionName" rel="cc:attributionURL">Lars Bauer</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
