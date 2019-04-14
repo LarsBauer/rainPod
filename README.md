@@ -1,5 +1,5 @@
 # rainPod
-##About
+## About
 A couple of weeks ago I found my old iPod Mini in my cupboard. After some hours of charging it even worked. I was so happy that I decided to revive this legendary music player and bring it to Rainmeter.
 
 <p align="center">
@@ -7,36 +7,36 @@ A couple of weeks ago I found my old iPod Mini in my cupboard. After some hours 
 </p>
 
 This is my first Rainmeter skin. So I am quite a beginner. I know there is still a lot of room for improvements. I have already added some ideas of mine as enhancement issues. If you have got any suggestions or criticism feel free to let me know.
-##Customizing
+## Customizing
 To customize **rainPod** right-click on the skin, select _Edit skin_ and edit the `[Variables]` section in **rainPod.ini**.
-###Color
+### Color
 Available color are **grey**, **pink** **green** or **blue**. Just assign your prefered color to the `MyColor` variable. Have a look at the following example:
 ```ini
 MyColor=green
 ```
-###Music player
+### Music player
 The skin was developed and tested using iTunes. For other available and supported music players have a look at the offical Rainmeter **[docs](http://docs.rainmeter.net/manual/plugins/nowplaying#playerlist)**. To change this value just assign your prefered music player to the `MyPlayer` variable like this:
 ```ini
 MyPlayer=iTunes
 ```
-###Size
+### Size
 The default height of this skin is **350px**. If you want to resize the music player you can do this by assigning your prefered height to the `MyHeight` variable. At the moment I recommend not to go beyond the default value. Bigger is no problem.
 ```ini
 MyHeight=350
 ```
-#Credits
+# Credits
 Special thanks to the following artists and developers for making this possible.
-##Icons
+## Icons
 * [Freecns Cumulus](https://www.iconfinder.com/iconsets/freecns-cumulus) by Yannick Lung
 * [Google Material Design icons](https://www.iconfinder.com/iconsets/google-material-design-icons) by Google Inc.
 * [Google Material Audio & Video](https://www.iconfinder.com/iconsets/material-audio-video) by Google Inc.
 * [Cool Application icons](https://www.iconfinder.com/iconsets/cool-application-icons) by Edward Guobadia
 * [Ionicons](https://www.iconfinder.com/iconsets/ionicons) by Ionicons
 
-##Scripts
+## Scripts
 * [Marquee](http://rainmeter.net/forum/viewtopic.php?p=92179#p92179) by smurfier & Skymil
 
-#License
+# License
 MIT License
 
 Copyright (c) 2016 Lars Bauer
